@@ -1,0 +1,1 @@
+Store the build version here to prevent re-compilation when only updating docker file
